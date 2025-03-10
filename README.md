@@ -1,4 +1,4 @@
-# AI-Powered Personalized Nutrition Planner
+![image](https://github.com/user-attachments/assets/8d67a148-46bd-4bad-8cf9-75acb8011135)# AI-Powered Personalized Nutrition Planner
 Our web-based application is designed to provide a personalized 7-day diet plan tailored to your unique dietary needs and preferences. By leveraging Google Generative AI, we offer detailed insights into the nutritional content of meals, ensuring a balanced and healthy diet.
 
 ## How It Works:
@@ -21,19 +21,19 @@ This intelligent nutrition planner helps individuals make informed dietary choic
 
 ## Procedure
 
-step 1:
+Step 1:
 ### Cloning the repository
  ```sh
 git clone https://github.com/username/repository.git
 ```
 
-step 2:
+Step 2:
 ### Go to your project directory and run the below command
 ```sh
 pip install -r requirements.txt
 ```
 
-step 3:
+Step 3:
 ### Running our app
 ```sh
 streamlit run app.py
@@ -44,6 +44,12 @@ python -m streamlit run app.py
 ```
 
 ## Demo Output
+
+![image](https://github.com/user-attachments/assets/35f19b4d-f97d-4ece-b018-3a6e983c46a6)
+
+![image](https://github.com/user-attachments/assets/9c4aac5c-86ac-40ba-aa09-6572213bcf2c)
+
+
 
 
 

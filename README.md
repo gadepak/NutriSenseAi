@@ -3,7 +3,7 @@ Our web-based application is designed to provide a personalized 7-day diet plan 
 
 ## How It Works:
 Users input key details such as:
-✅ Gender – Helps in calculating nutritional requirements.
+✅ Gender – Helps in calculating nutritional requirements.<br>
 ✅ Health Conditions (e.g., diabetes, heart health) – Ensures meals support specific health goals.
 ✅ Dietary Restrictions (e.g., vegan, keto, gluten-free) – Customizes meal plans accordingly.
 ✅ Activity Level (Sedentary to Very Active) – Adjusts caloric intake and macronutrient balance.

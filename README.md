@@ -34,6 +34,7 @@ pip install -r requirements.txt
 ```
 #### Note: 
 In your app.py in the place of "Your_Gemini_API_Key" add your Gemini API key
+
 Step 3:
 ### Running our app
 ```sh

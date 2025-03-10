@@ -23,22 +23,25 @@ This intelligent nutrition planner helps individuals make informed dietary choic
 
 step 1:
 ### Cloning the repository
-` ```sh`
+ ```sh
 git clone https://github.com/username/repository.git
+```
 
 step 2:
 ### Go to your project directory and run the below command
-` ```sh`
+```sh
 pip install -r requirements.txt
+```
 
 step 3:
 ### Running our app
-` ```sh`
+```sh
 streamlit run app.py
+```
       (or)
-` ```sh`
+```sh
 python -m streamlit run app.py
-
+```
 
 ## Demo Output
 

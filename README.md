@@ -24,7 +24,7 @@ This intelligent nutrition planner helps individuals make informed dietary choic
 Step 1:
 ### Cloning the repository
  ```sh
-git clone https://github.com/username/repository.git
+git clone https://github.com/gadepak/NutriSenseAi.git
 ```
 
 Step 2:

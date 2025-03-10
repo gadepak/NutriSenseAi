@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8d67a148-46bd-4bad-8cf9-75acb8011135)# AI-Powered Personalized Nutrition Planner
+# AI-Powered Personalized Nutrition Planner
 Our web-based application is designed to provide a personalized 7-day diet plan tailored to your unique dietary needs and preferences. By leveraging Google Generative AI, we offer detailed insights into the nutritional content of meals, ensuring a balanced and healthy diet.
 
 ## How It Works:
@@ -32,7 +32,8 @@ Step 2:
 ```sh
 pip install -r requirements.txt
 ```
-
+#### Note: 
+In your app.py in the place of "Your_Gemini_API_Key" add your Gemini API key
 Step 3:
 ### Running our app
 ```sh
